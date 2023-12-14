@@ -1,0 +1,58 @@
+{
+    "e0f73c07-80ba-47c6-987d-6862288db5b1": {
+        "sentences": [
+            "Bernard Francis Law has the position of [MASK] ."
+        ],
+        "relation_name": "P39",
+        "obj_label": "archbishop",
+        "wrong_fact": [
+            "cardinal",
+            "Shah",
+            "mayor",
+            "Maharaja",
+            "bishop"
+        ]
+    },
+    "2c5bd3f9-5eb5-4bca-91ab-420bccb786da": {
+        "sentences": [
+            "Augustine Kandathil has the position of [MASK] ."
+        ],
+        "relation_name": "P39",
+        "obj_label": "archbishop",
+        "wrong_fact": [
+            "rabbi",
+            "mayor",
+            "abbot",
+            "minister",
+            "governor"
+        ]
+    },
+    "48a2b323-a09c-4af3-ae3f-8df5a80a68a5": {
+        "sentences": [
+            "John XXI has the position of [MASK] ."
+        ],
+        "relation_name": "P39",
+        "obj_label": "pope",
+        "wrong_fact": [
+            "bishop",
+            "Maharaja",
+            "patriarch",
+            "pastor",
+            "vicar"
+        ]
+    },
+    "d897d65f-e084-4a22-b423-7a2d5c3641d8": {
+        "sentences": [
+            "Leo XII has the position of [MASK] ."
+        ],
+        "relation_name": "P39",
+        "obj_label": "cardinal",
+        "wrong_fact": [
+            "sultan",
+            "mayor",
+            "abbot",
+            "regent",
+            "governor"
+        ]
+    },
+}
